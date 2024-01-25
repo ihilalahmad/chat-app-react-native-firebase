@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "chat-app-firebase-react-native",
+    "slug": "chat-app-firebase-react-native"
+  }
+}
