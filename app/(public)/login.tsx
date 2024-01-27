@@ -53,6 +53,7 @@ const login = () => {
       <TouchableOpacity style={styles.styleLoginButton} onPress={loginUser}>
         <Text style={styles.styleButtonText}>Login</Text>
       </TouchableOpacity>
+      <Text>Don't have account</Text>
     </View>
   );
 };

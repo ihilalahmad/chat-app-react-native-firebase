@@ -81,7 +81,7 @@ const register = () => {
         onPress={registerUserInFirebase}
       >
         <Text style={styles.styleButtonText}>Create Free Account</Text>
-      </TouchableOpacity>{' '}
+      </TouchableOpacity>
     </View>
   );
 };
